@@ -1,0 +1,5 @@
+html {
+    background: radial-gradient(black 10px,
+            white 10px 60px, black 60px);
+    background-size: 100px 100px;
+}
